@@ -1,6 +1,7 @@
 using Avalonia.Controls;
 
-namespace GetStartedApp;
+namespace GetStartedApp
+{
 
 public partial class MainWindow : Window
 {
@@ -8,4 +9,5 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
     }
+}
 }

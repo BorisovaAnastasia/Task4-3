@@ -1,7 +1,8 @@
 ﻿using Avalonia;
 using System;
 
-namespace GetStartedApp;
+namespace GetStartedApp
+{
 
 class Program
 {
@@ -18,4 +19,5 @@ class Program
             .UsePlatformDetect()
             .WithInterFont()
             .LogToTrace();
+}
 }

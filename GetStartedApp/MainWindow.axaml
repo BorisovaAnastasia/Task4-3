@@ -22,8 +22,7 @@
             Background="Cyan"
             HorizontalAlignment="Stretch"
             VerticalAlignment="Stretch"
-            x:Name="Button11"
-            Click="Button11_Click">Button 1,1</Button>
+            x:Name="Button11">Button 1,1</Button>
     <Button Grid.Row="2"
             Grid.Column="2"
             Background="Violet"
